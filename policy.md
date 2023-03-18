@@ -57,7 +57,7 @@ to enable automatic updates.
 ## Changes
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any 
 changes to our Privacy Policy by posting the new Privacy Policy 
-at https://github.com/vladdyslav/magicball_aezeer/blob/main/.gitignore 
+at https://github.com/vladdyslav/magicball_aezeer/blob/main/policy.md 
 and update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes, as continued use 
